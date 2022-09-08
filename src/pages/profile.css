@@ -1,0 +1,15 @@
+.profile{
+  width: 100%;
+  background-color: azure;
+  text-align: center;
+  max-width: 400px;
+  border: 1px solid #dcdcdc;
+  padding: 20px;
+  text-align: center;
+}
+
+.profile > span{
+  color: blue;
+  margin-top: 30px;
+  cursor: pointer;
+}
